@@ -2,4 +2,4 @@
 
 ### Imagem Go
 
-marcosbarbosa/golang
+- marcosbarbosa/golang
